@@ -8,6 +8,13 @@ This project is to use machine learning to find out the association in grocery o
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+<!-- PROJECT Image -->
+<br/>
+<div align="left">
+  <img src="images/association-rule-mining.jpeg" width="550" height="300">
+</div>
+
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -60,17 +67,17 @@ A sample grocery transaction csv file containing 38766 customer purchase records
 5. Grouping data by customer and purchase date
 6. Change data shape
 <div align="left">
-  <img src="images/change-data-shape.png">
+  <img src="images/change-data-shape.png" width="550" height="150">
 </div>
 7. Replace numeric values with the corresponding product names</br>
 8. Extracting the items bought per customer and store the items into a list
 <div align="left">
-  <img src="images/item-bought-per-customer.png">
+  <img src="images/item-bought-per-customer.png" width="450" height="150">
 </div>
 9. Run association rule mining with apyori algorithm</br>
 10. Review the result rule
 <div align="left">
-  <img src="images/apyori-rule-result.png">
+  <img src="images/apyori-rule-result.png" width="400" height="400">
 </div>
 </br>
 
@@ -87,11 +94,11 @@ A sample grocery transaction csv file containing 38766 customer purchase records
 9. Identify frequent patterns with fp growth algorithm. Save the sorted pattern
 10. Generate association rules from the sorted pattern.
 <div align="left">
-  <img src="images/sorted-pattern.png">
+  <img src="images/sorted-pattern.png" width="350" height="200">
 </div>
 11. Review the result rule
 <div align="left">
-  <img src="images/fp-growth-result.png">
+  <img src="images/fp-growth-result.png" width="550" height="300">
 </div>
 
 
