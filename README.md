@@ -1,4 +1,4 @@
-# Machine Learning Association Rule Generation
+# Machine Learning Association Rule Mining
 This project is to use machine learning to find out the association in grocery order transactions and generate the learned association rule accordingly.
 
 <a name="readme-top"></a>
