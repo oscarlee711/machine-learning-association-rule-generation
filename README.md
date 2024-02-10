@@ -1,4 +1,4 @@
-# machine-learning-association-rule-generation
+# Machine Learning Association Rule Generation
 This project is to use machine learning to find out the association in grocery order transactions and generate the learned association rule accordingly.
 
 <a name="readme-top"></a>
@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Oscar Lee</br>
 Email: mail.oscar.lee@gmail.com</br>
 LinkedIn: [https://www.linkedin.com/in/oscarlee1](https://www.linkedin.com/in/oscarlee1)</br>
-Project Link: [https://github.com/oscarlee711/image-classification-neural-network](https://github.com/oscarlee711/image-classification-neural-network)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
